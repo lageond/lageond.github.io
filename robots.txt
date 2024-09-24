@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lageond.github.io/sitemap.html.gz
+Sitemap: https://lageond.github.io/app/sitemap.html.gz
+Sitemap: https://lageond.github.io/assets/sitemap.html.gz
+Sitemap: https://lageond.github.io/css/sitemap.html.gz
+Sitemap: https://lageond.github.io/data/sitemap.html.gz
+Sitemap: https://lageond.github.io/includes/sitemap.html.gz
+Sitemap: https://lageond.github.io/item/sitemap.html.gz
+Sitemap: https://lageond.github.io/src/sitemap.html.gz
